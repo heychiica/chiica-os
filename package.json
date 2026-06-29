@@ -1,0 +1,31 @@
+{
+  "name": "chiica",
+  "version": "1.0.0",
+  "description": "The AI Operating System for the CHIIC ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heychiica/chiica-os.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "bugs": {
+    "url": "https://github.com/heychiica/chiica-os/issues"
+  },
+  "homepage": "https://github.com/heychiica/chiica-os#readme",
+  "dependencies": {
+    "next": "^16.2.9",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.1",
+    "@types/react": "^19.2.17",
+    "typescript": "^6.0.3"
+  }
+}
