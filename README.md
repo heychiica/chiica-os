@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CHIICA
 
 The AI Operating System for the CHIIC ecosystem.
